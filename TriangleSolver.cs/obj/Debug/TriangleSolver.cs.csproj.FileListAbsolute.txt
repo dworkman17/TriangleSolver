@@ -1,0 +1,6 @@
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolver.cs\bin\Debug\TriangleSolver.cs.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolver.cs\bin\Debug\TriangleSolver.cs.pdb
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolver.cs\obj\Debug\TriangleSolver.cs.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolver.cs\obj\Debug\TriangleSolver.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolver.cs\obj\Debug\TriangleSolver.cs.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolver.cs\obj\Debug\TriangleSolver.cs.pdb

@@ -1,0 +1,16 @@
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\TriangleSolverTest.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\TriangleSolverTest.pdb
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\TriangleSolver.cs.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\TriangleSolver.cs.pdb
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTests.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTests.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTests.csproj.CopyComplete
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTest.dll
+C:\Users\Dan\source\repos\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTest.pdb
